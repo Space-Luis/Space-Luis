@@ -1,16 +1,21 @@
-### Hello Everyone 👋
+# Hello Everyone 👋
 
-<!--
-**Space-Luis/Space-Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 03년생 둔촌고등학교에 재학중인 2학년 학생
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 선호언어
+   - C
+   - Python
+   - PHP
+   - HTML (?)
+   
+- 🤔 하고싶은 활동
+   - 안드로이드 스튜디오를 사용해 앱만들어서 구글플레이스토어 출시
+   - 유니티를 사용해 정식 출시
+   
+- 📫 연락처
+   - https://github.com/Space-Luis
+   - spaceluis769@gmail.com
+   
+- 💬 언제나 피드백을 받아들일 준비가 되있음
+
