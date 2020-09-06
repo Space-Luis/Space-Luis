@@ -7,7 +7,7 @@
    - C
    - Python
    - PHP
-   - HTML (?)
+   - HTML (...?)
    - Kotlin
    
 - 🤔 하고싶은 활동
